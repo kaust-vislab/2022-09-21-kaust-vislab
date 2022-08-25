@@ -333,7 +333,7 @@ change the value of `carpentry` to `incubator`.
 </div>
 {% else %}
 <!-- <p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p> -->
-<p><a href="https://kaustforms.formstack.com/forms/unix_shell_data_scientists_feedback_fall_2022">Post-workshop Survey</a></p>
+<p><a href="https://kaustforms.formstack.com/forms/intro_conda_for_data_science_fall_2022">Post-workshop Survey</a></p>
 {% endif %}
 
 <hr/>
