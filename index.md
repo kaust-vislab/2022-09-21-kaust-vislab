@@ -268,7 +268,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="Registration"> 
   <strong>Registration:</strong>
-  <a href="https://forms.gle/VV85fDBUwK9sijPE7">Register now!</a> 
+  <a href="https://kaustforms.formstack.com/forms/intro_conda_for_data_science_fall_2021_copy">Register now!</a> 
 </p>
 
 
@@ -333,7 +333,7 @@ change the value of `carpentry` to `incubator`.
 </div>
 {% else %}
 <!-- <p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p> -->
-<p><a href="https://kaustforms.formstack.com/forms/intro_conda_for_data_science_fall_2022">Post-workshop Survey</a></p>
+<p><a href="https://kaustforms.formstack.com/forms/intro_conda_for_data_science_fall_2022_">Post-workshop Survey</a></p>
 {% endif %}
 
 <hr/>
