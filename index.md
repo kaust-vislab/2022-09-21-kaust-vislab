@@ -268,7 +268,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="Registration"> 
   <strong>Registration:</strong>
-  <a href="https://kaustforms.formstack.com/forms/intro_conda_for_data_science_fall_2021_copy">Register now!</a> 
+  <a href="https://kaustforms.formstack.com/forms/intro_conda_for_data_science_fall_22">Register now!</a> 
 </p>
 
 
